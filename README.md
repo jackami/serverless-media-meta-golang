@@ -1,6 +1,6 @@
 # serverless-media-meta-golang
 
-## Architecture
+## Architectures
 
 ![](assets/architecture.png)
 
